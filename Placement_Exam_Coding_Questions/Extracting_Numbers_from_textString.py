@@ -25,7 +25,7 @@ for i in list1:
 
 print("No. without Fraction \nsum=",sum,"\n")
 
-# If Decimal Numbers occured in the Secntence
+# If Decimal Numbers occured in the Sentence
 for word2 in sentence2.split():
     if not word2.isalpha():
         list2.append(word2)
