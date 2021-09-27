@@ -1,5 +1,5 @@
 # Given  Sentence
-sentence="Ramu have 150 Apples and 10 orenges"
+sentence="Ramu have 150 Apples and 10 bananas"
 sentence2="Ramu Sell 1 Apple at 15.5 Rupees"
 
 list1=[]
